@@ -1,6 +1,7 @@
 html {
   height: 100%;
   width: 100%;
+  font-family: "Poppins", sans-serif;
 }
 
 .container{
@@ -26,4 +27,8 @@ width: 50%;
 
 .sidebar {
   width: 30%;
+}
+
+h1, h2, h3 {
+  font-family: "Abril Fatface", serif;
 }
